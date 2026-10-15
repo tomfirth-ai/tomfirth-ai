@@ -1,16 +1,14 @@
-## Hi there 👋
+### Tom Firth · Forward Deployed Engineer · London
 
-<!--
-**tomfirth-ai/tomfirth-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I find the work AI should be doing, build it, and get people using it.
 
-Here are some ideas to get you started:
+- **Now:** self-employed FDE for a London corporate finance firm, alongside my final year of Economics at Exeter
+- **Built:** the firm's AI hub for buy-side origination, a document assistant that says "I don't know", and an AI deal-sourcing pipeline for a UK search fund
+- **Trained:** a whole office to work with Claude, plus the founders in Munich
+- **Before that:** IBM Consulting, embedded with a global consumer goods client
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The code belongs to the firms I built it for, so the work is described on my portfolio.
+
+**[Portfolio](https://tomfirth-ai.github.io)** · **[LinkedIn](https://www.linkedin.com/in/tom-firth24/)** · tom.firthy314@gmail.com
+
+`Python` `Claude API` `Agent SDK` `Claude Skills` `MCP` `Streamlit` `pytest`
